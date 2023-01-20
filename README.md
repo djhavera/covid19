@@ -5,6 +5,7 @@ A simple ReactJS app that displays latest stats about COVID-19.
 - cd covid19
 - npm install
 - npm start
+- test push
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
